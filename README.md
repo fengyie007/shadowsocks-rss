@@ -17,14 +17,17 @@ oother https://github.com/shadowsocksr-rm or https://github.com/shadowsocksrr
 https://github.com/Ssrbackup/shadowsocks-rss/wiki  (edited)
 
 ## Last version download 
+
 server code
 
 SSR python  https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/code/shadowsocksr.zip
+
 SSR libev https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/code/shadowsocksr-libev.zip
 
 (clone by ssr python forkd project linux please install unzip   unzip this files)
 
 client
+
 SSR android   https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/android%20client/ssr_3.4.0.6.apk
 
 SSR c#  https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/windows%20client/ShadowsocksR-win-4.7.0.zip
