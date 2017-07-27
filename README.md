@@ -12,14 +12,15 @@ SSR libev https://github.com/shadowsocksrr/shadowsocksr-libev
 
 oother https://github.com/shadowsocksr-rm or https://github.com/shadowsocksrr
 
-shadowsocks-rss wiki
+## shadowsocks-rss wiki
+
 https://github.com/Ssrbackup/shadowsocks-rss/wiki  (edited)
 
 ## Last version download 
 
 SSR python  https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/code/shadowsocksr.zip
 
-clone by ssr python forkd project linux please install unzip   unzip this files
+(clone by ssr python forkd project linux please install unzip   unzip this files)
 
 SSR android   https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/android%20client/ssr_3.4.0.6.apk
 
@@ -27,6 +28,6 @@ SSR c#  https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/windo
 
 SSR libev https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/code/shadowsocksr-libev.zip
 
-clone by ssr libev forkd project linux please install unzip   unzip this files
+(clone by ssr libev forkd project linux please install unzip   unzip this files)
 
 ## See the client folder for historical versions
