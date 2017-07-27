@@ -10,7 +10,7 @@
 
 * SSR libev https://github.com/shadowsocksrr/shadowsocksr-libev
 
-oother https://github.com/shadowsocksr-rm or https://github.com/shadowsocksrr
+other https://github.com/shadowsocksr-rm or https://github.com/shadowsocksrr
 
 ## shadowsocks-rss wiki
 
@@ -20,7 +20,7 @@ https://github.com/Ssrbackup/shadowsocks-rss/wiki  (edited)
 
 ### server code
 
-*SSR python  https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/code/shadowsocksr.zip
+* SSR python  https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/code/shadowsocksr.zip
 
 * SSR libev https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/code/shadowsocksr-libev.zip
 
