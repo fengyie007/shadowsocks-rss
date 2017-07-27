@@ -18,7 +18,7 @@ https://github.com/Ssrbackup/shadowsocks-rss/wiki  (edited)
 
 ## Last version download 
 
-server code
+* server code
 
 SSR python  https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/code/shadowsocksr.zip
 
@@ -26,7 +26,7 @@ SSR libev https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/cod
 
 (clone by ssr python forkd project linux please install unzip   unzip this files)
 
-client
+* client
 
 SSR android   https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/android%20client/ssr_3.4.0.6.apk
 
